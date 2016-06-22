@@ -1,0 +1,106 @@
+.wrap {
+  width: 1200px;
+  margin: 0 auto;
+  // overflow-x: scroll;
+}
+.box-org-tree {
+  background-color: #f0f0f0;
+  display: inline-block;
+}
+.org_group .org_td {
+  vertical-align: top;
+}
+.org_group .org_line_tm {
+  background: url(../images/m.png) no-repeat top center;
+}
+.org_group .org_line_bm {
+  background: url(../images/m.png) no-repeat bottom center;
+}
+.org_group .org_line_c {
+  background: url(../images/c.png) repeat-x top center;
+}
+.org_group .org_line_l,
+.org_group .org_line_r {
+  position: relative;
+}
+.org_group .org_line_l:before,
+.org_group .org_line_r:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 10px;
+  border: 2px solid #676767;
+}
+.org_group .org_line_l:before {
+  left: 0;
+  border-width: 2px 2px 0 0;
+  border-top-right-radius: 4px;
+}
+.org_group .org_line_r:before {
+  left: 50%;
+  border-width: 2px 0 0 2px;
+  border-top-left-radius: 4px;
+}
+.org_node_c {
+  width: 180px;
+  height: 45px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.org_node_c .org_node_c_inner {
+  width: 180px;
+  overflow: hidden;
+  background-color: #fff;
+}
+.org_node_c .org_node_c_inner .comp-info {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 12px;
+  line-height: 42px;
+  padding: 0 18px;
+  border: 2px solid #676767;
+  border-radius: 2px;
+  text-align: left;
+  position: relative;
+}
+.org_node_c .org_node_c_inner .comp-info .edit {
+  width: 42px;
+  line-height: 42px;
+  background-color: #fff;
+  color: #37abe7;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  position: absolute;
+  top: 1px;
+  right: 1px;
+  display: none;
+}
+.org_node_c .org_node_c_inner .comp-info  a {
+  text-decoration: none;
+  color: #37abe7;
+}
+.org_node_c .org_node_c_inner .comp-info a em {
+  font-style: normal;
+}
+.org_node_c.active .org_node_c_inner .comp-info {
+  border-color: #37abe7;
+  background-color: #37abe7;
+}
+.org_node_c.active .org_node_c_inner .comp-info a {
+  color: #fff;
+}
+
+.org_node_c .org_node_c_inner .comp-info .switch-flag.text-icon {
+  font-size: 8px;
+  border: 1px solid #dfdfe6;
+  color: #3aace7;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: #fff;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+}

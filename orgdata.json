@@ -1,0 +1,1582 @@
+{
+    "rootFlag": -1,
+    "count": 76,
+    "root": {
+        "childs": [
+            {
+                "childs": [
+                    {
+                        "childs": [],
+                        "parentId": 1,
+                        "id": 213,
+                        "data": {
+                            "employees": 0,
+                            "parentId": 1,
+                            "id": 213,
+                            "level": 1,
+                            "createtime": "20160330171916",
+                            "modifytime": "2016-03-30 17:19:16.0",
+                            "dept_id": 213,
+                            "parent_id": 1,
+                            "leaf_flag": "YES",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "HRR"
+                        },
+                        "level": 1
+                    },
+                    {
+                        "childs": [],
+                        "parentId": 1,
+                        "id": 252,
+                        "data": {
+                            "employees": 1,
+                            "parentId": 1,
+                            "id": 252,
+                            "level": 1,
+                            "createtime": "20160412164026",
+                            "modifytime": "2016-04-12 16:40:26.0",
+                            "dept_id": 252,
+                            "parent_id": 1,
+                            "leaf_flag": "YES",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "重复部门"
+                        },
+                        "level": 1
+                    }
+                ],
+                "parentId": 0,
+                "id": 1,
+                "data": {
+                    "employees": 24,
+                    "parentId": 0,
+                    "id": 1,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2016-04-18 15:13:06.0",
+                    "dept_id": 1,
+                    "parent_id": 0,
+                    "leaf_flag": "NO",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "人力资源部"
+                },
+                "level": 0
+            },
+            {
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [
+                                    {
+                                        "childs": [
+                                            {
+                                                "childs": [
+                                                    {
+                                                        "childs": [
+                                                            {
+                                                                "childs": [
+                                                                    {
+                                                                        "childs": [
+                                                                            {
+                                                                                "childs": [
+                                                                                    {
+                                                                                        "childs": [
+                                                                                            {
+                                                                                                "childs": [
+                                                                                                    {
+                                                                                                        "childs": [
+                                                                                                            {
+                                                                                                                "childs": [
+                                                                                                                    {
+                                                                                                                        "childs": [
+                                                                                                                            {
+                                                                                                                                "childs": [],
+                                                                                                                                "parentId": 227,
+                                                                                                                                "id": 228,
+                                                                                                                                "data": {
+                                                                                                                                    "employees": 0,
+                                                                                                                                    "parentId": 227,
+                                                                                                                                    "id": 228,
+                                                                                                                                    "level": 14,
+                                                                                                                                    "createtime": "20160412162933",
+                                                                                                                                    "modifytime": "2016-04-12 16:29:33.0",
+                                                                                                                                    "dept_id": 228,
+                                                                                                                                    "parent_id": 227,
+                                                                                                                                    "leaf_flag": "YES",
+                                                                                                                                    "delete_flag": 0,
+                                                                                                                                    "comp_id": 131,
+                                                                                                                                    "name": "15请求钱钱钱钱钱钱钱钱钱去去去去去去去去去去去去去去去去去去去去去去"
+                                                                                                                                },
+                                                                                                                                "level": 14
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "childs": [],
+                                                                                                                                "parentId": 227,
+                                                                                                                                "id": 229,
+                                                                                                                                "data": {
+                                                                                                                                    "employees": 0,
+                                                                                                                                    "parentId": 227,
+                                                                                                                                    "id": 229,
+                                                                                                                                    "level": 14,
+                                                                                                                                    "createtime": "20160412163002",
+                                                                                                                                    "modifytime": "2016-04-12 16:30:02.0",
+                                                                                                                                    "dept_id": 229,
+                                                                                                                                    "parent_id": 227,
+                                                                                                                                    "leaf_flag": "YES",
+                                                                                                                                    "delete_flag": 0,
+                                                                                                                                    "comp_id": 131,
+                                                                                                                                    "name": "15-1请求钱钱钱钱钱钱钱钱钱去去去去去去去去去去去去去去去去去去去去去去"
+                                                                                                                                },
+                                                                                                                                "level": 14
+                                                                                                                            }
+                                                                                                                        ],
+                                                                                                                        "parentId": 226,
+                                                                                                                        "id": 227,
+                                                                                                                        "data": {
+                                                                                                                            "employees": 2,
+                                                                                                                            "parentId": 226,
+                                                                                                                            "id": 227,
+                                                                                                                            "level": 13,
+                                                                                                                            "createtime": "20160412162907",
+                                                                                                                            "modifytime": "2016-04-12 16:29:07.0",
+                                                                                                                            "dept_id": 227,
+                                                                                                                            "parent_id": 226,
+                                                                                                                            "leaf_flag": "NO",
+                                                                                                                            "delete_flag": 0,
+                                                                                                                            "comp_id": 131,
+                                                                                                                            "name": "14去去去"
+                                                                                                                        },
+                                                                                                                        "level": 13
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "childs": [],
+                                                                                                                        "parentId": 226,
+                                                                                                                        "id": 263,
+                                                                                                                        "data": {
+                                                                                                                            "employees": 0,
+                                                                                                                            "parentId": 226,
+                                                                                                                            "id": 263,
+                                                                                                                            "level": 13,
+                                                                                                                            "createtime": "20160412214920",
+                                                                                                                            "modifytime": "2016-04-12 21:49:20.0",
+                                                                                                                            "dept_id": 263,
+                                                                                                                            "parent_id": 226,
+                                                                                                                            "leaf_flag": "YES",
+                                                                                                                            "delete_flag": 0,
+                                                                                                                            "comp_id": 131,
+                                                                                                                            "name": "QWERTY67"
+                                                                                                                        },
+                                                                                                                        "level": 13
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "childs": [],
+                                                                                                                        "parentId": 226,
+                                                                                                                        "id": 264,
+                                                                                                                        "data": {
+                                                                                                                            "employees": 0,
+                                                                                                                            "parentId": 226,
+                                                                                                                            "id": 264,
+                                                                                                                            "level": 13,
+                                                                                                                            "createtime": "20160412215000",
+                                                                                                                            "modifytime": "2016-04-12 21:50:00.0",
+                                                                                                                            "dept_id": 264,
+                                                                                                                            "parent_id": 226,
+                                                                                                                            "leaf_flag": "YES",
+                                                                                                                            "delete_flag": 0,
+                                                                                                                            "comp_id": 131,
+                                                                                                                            "name": "期未456789"
+                                                                                                                        },
+                                                                                                                        "level": 13
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "childs": [],
+                                                                                                                        "parentId": 226,
+                                                                                                                        "id": 268,
+                                                                                                                        "data": {
+                                                                                                                            "employees": 0,
+                                                                                                                            "parentId": 226,
+                                                                                                                            "id": 268,
+                                                                                                                            "level": 13,
+                                                                                                                            "createtime": "20160412223215",
+                                                                                                                            "modifytime": "2016-04-12 22:32:15.0",
+                                                                                                                            "dept_id": 268,
+                                                                                                                            "parent_id": 226,
+                                                                                                                            "leaf_flag": "YES",
+                                                                                                                            "delete_flag": 0,
+                                                                                                                            "comp_id": 131,
+                                                                                                                            "name": "5432"
+                                                                                                                        },
+                                                                                                                        "level": 13
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "parentId": 225,
+                                                                                                                "id": 226,
+                                                                                                                "data": {
+                                                                                                                    "employees": 2,
+                                                                                                                    "parentId": 225,
+                                                                                                                    "id": 226,
+                                                                                                                    "level": 12,
+                                                                                                                    "createtime": "20160412162845",
+                                                                                                                    "modifytime": "2016-04-12 16:28:45.0",
+                                                                                                                    "dept_id": 226,
+                                                                                                                    "parent_id": 225,
+                                                                                                                    "leaf_flag": "NO",
+                                                                                                                    "delete_flag": 0,
+                                                                                                                    "comp_id": 131,
+                                                                                                                    "name": "13钱钱钱钱钱钱钱钱钱去去去去去去去去去去去去去去去去去去去去去去"
+                                                                                                                },
+                                                                                                                "level": 12
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        "parentId": 224,
+                                                                                                        "id": 225,
+                                                                                                        "data": {
+                                                                                                            "employees": 2,
+                                                                                                            "parentId": 224,
+                                                                                                            "id": 225,
+                                                                                                            "level": 11,
+                                                                                                            "createtime": "20160412162819",
+                                                                                                            "modifytime": "2016-04-12 16:28:19.0",
+                                                                                                            "dept_id": 225,
+                                                                                                            "parent_id": 224,
+                                                                                                            "leaf_flag": "NO",
+                                                                                                            "delete_flag": 0,
+                                                                                                            "comp_id": 131,
+                                                                                                            "name": "12 请求钱钱钱钱钱钱钱钱钱去去去去去去去去去去去去去去去去去去去去去去"
+                                                                                                        },
+                                                                                                        "level": 11
+                                                                                                    }
+                                                                                                ],
+                                                                                                "parentId": 223,
+                                                                                                "id": 224,
+                                                                                                "data": {
+                                                                                                    "employees": 2,
+                                                                                                    "parentId": 223,
+                                                                                                    "id": 224,
+                                                                                                    "level": 10,
+                                                                                                    "createtime": "20160412162754",
+                                                                                                    "modifytime": "2016-04-12 16:27:54.0",
+                                                                                                    "dept_id": 224,
+                                                                                                    "parent_id": 223,
+                                                                                                    "leaf_flag": "NO",
+                                                                                                    "delete_flag": 0,
+                                                                                                    "comp_id": 131,
+                                                                                                    "name": "11去去去去去去去去去去去去去去去去轻轻巧巧"
+                                                                                                },
+                                                                                                "level": 10
+                                                                                            }
+                                                                                        ],
+                                                                                        "parentId": 222,
+                                                                                        "id": 223,
+                                                                                        "data": {
+                                                                                            "employees": 4,
+                                                                                            "parentId": 222,
+                                                                                            "id": 223,
+                                                                                            "level": 9,
+                                                                                            "createtime": "20160412162727",
+                                                                                            "modifytime": "2016-04-12 16:27:27.0",
+                                                                                            "dept_id": 223,
+                                                                                            "parent_id": 222,
+                                                                                            "leaf_flag": "NO",
+                                                                                            "delete_flag": 0,
+                                                                                            "comp_id": 131,
+                                                                                            "name": "10去去去"
+                                                                                        },
+                                                                                        "level": 9
+                                                                                    }
+                                                                                ],
+                                                                                "parentId": 221,
+                                                                                "id": 222,
+                                                                                "data": {
+                                                                                    "employees": 4,
+                                                                                    "parentId": 221,
+                                                                                    "id": 222,
+                                                                                    "level": 8,
+                                                                                    "createtime": "20160412162715",
+                                                                                    "modifytime": "2016-04-12 16:27:15.0",
+                                                                                    "dept_id": 222,
+                                                                                    "parent_id": 221,
+                                                                                    "leaf_flag": "NO",
+                                                                                    "delete_flag": 0,
+                                                                                    "comp_id": 131,
+                                                                                    "name": "9999"
+                                                                                },
+                                                                                "level": 8
+                                                                            }
+                                                                        ],
+                                                                        "parentId": 220,
+                                                                        "id": 221,
+                                                                        "data": {
+                                                                            "employees": 4,
+                                                                            "parentId": 220,
+                                                                            "id": 221,
+                                                                            "level": 7,
+                                                                            "createtime": "20160412162706",
+                                                                            "modifytime": "2016-04-12 16:27:06.0",
+                                                                            "dept_id": 221,
+                                                                            "parent_id": 220,
+                                                                            "leaf_flag": "NO",
+                                                                            "delete_flag": 0,
+                                                                            "comp_id": 131,
+                                                                            "name": "8888"
+                                                                        },
+                                                                        "level": 7
+                                                                    }
+                                                                ],
+                                                                "parentId": 219,
+                                                                "id": 220,
+                                                                "data": {
+                                                                    "employees": 4,
+                                                                    "parentId": 219,
+                                                                    "id": 220,
+                                                                    "level": 6,
+                                                                    "createtime": "20160412162656",
+                                                                    "modifytime": "2016-04-12 16:26:56.0",
+                                                                    "dept_id": 220,
+                                                                    "parent_id": 219,
+                                                                    "leaf_flag": "NO",
+                                                                    "delete_flag": 0,
+                                                                    "comp_id": 131,
+                                                                    "name": "7777"
+                                                                },
+                                                                "level": 6
+                                                            }
+                                                        ],
+                                                        "parentId": 218,
+                                                        "id": 219,
+                                                        "data": {
+                                                            "employees": 4,
+                                                            "parentId": 218,
+                                                            "id": 219,
+                                                            "level": 5,
+                                                            "createtime": "20160412162412",
+                                                            "modifytime": "2016-04-12 16:24:12.0",
+                                                            "dept_id": 219,
+                                                            "parent_id": 218,
+                                                            "leaf_flag": "NO",
+                                                            "delete_flag": 0,
+                                                            "comp_id": 131,
+                                                            "name": "6666"
+                                                        },
+                                                        "level": 5
+                                                    }
+                                                ],
+                                                "parentId": 217,
+                                                "id": 218,
+                                                "data": {
+                                                    "employees": 4,
+                                                    "parentId": 217,
+                                                    "id": 218,
+                                                    "level": 4,
+                                                    "createtime": "20160412162351",
+                                                    "modifytime": "2016-04-12 16:23:51.0",
+                                                    "dept_id": 218,
+                                                    "parent_id": 217,
+                                                    "leaf_flag": "NO",
+                                                    "delete_flag": 0,
+                                                    "comp_id": 131,
+                                                    "name": "5555"
+                                                },
+                                                "level": 4
+                                            }
+                                        ],
+                                        "parentId": 216,
+                                        "id": 217,
+                                        "data": {
+                                            "employees": 6,
+                                            "parentId": 216,
+                                            "id": 217,
+                                            "level": 3,
+                                            "createtime": "20160412162342",
+                                            "modifytime": "2016-04-12 16:23:42.0",
+                                            "dept_id": 217,
+                                            "parent_id": 216,
+                                            "leaf_flag": "NO",
+                                            "delete_flag": 0,
+                                            "comp_id": 131,
+                                            "name": "4444"
+                                        },
+                                        "level": 3
+                                    },
+                                    {
+                                        "childs": [],
+                                        "parentId": 216,
+                                        "id": 366,
+                                        "data": {
+                                            "employees": 0,
+                                            "parentId": 216,
+                                            "id": 366,
+                                            "level": 3,
+                                            "createtime": "20160426144142",
+                                            "modifytime": "2016-04-26 14:41:42.0",
+                                            "dept_id": 366,
+                                            "parent_id": 216,
+                                            "leaf_flag": "YES",
+                                            "delete_flag": 0,
+                                            "comp_id": 131,
+                                            "name": "3331"
+                                        },
+                                        "level": 3
+                                    }
+                                ],
+                                "parentId": 215,
+                                "id": 216,
+                                "data": {
+                                    "employees": 6,
+                                    "parentId": 215,
+                                    "id": 216,
+                                    "level": 2,
+                                    "createtime": "20160412162254",
+                                    "modifytime": "2016-04-12 16:22:54.0",
+                                    "dept_id": 216,
+                                    "parent_id": 215,
+                                    "leaf_flag": "NO",
+                                    "delete_flag": 0,
+                                    "comp_id": 131,
+                                    "name": "333"
+                                },
+                                "level": 2
+                            },
+                            {
+                                "childs": [],
+                                "parentId": 215,
+                                "id": 257,
+                                "data": {
+                                    "employees": 0,
+                                    "parentId": 215,
+                                    "id": 257,
+                                    "level": 2,
+                                    "createtime": "20160412190720",
+                                    "modifytime": "2016-04-12 19:07:20.0",
+                                    "dept_id": 257,
+                                    "parent_id": 215,
+                                    "leaf_flag": "YES",
+                                    "delete_flag": 0,
+                                    "comp_id": 131,
+                                    "name": "3-1法规和预计"
+                                },
+                                "level": 2
+                            }
+                        ],
+                        "parentId": 2,
+                        "id": 215,
+                        "data": {
+                            "employees": 6,
+                            "parentId": 2,
+                            "id": 215,
+                            "level": 1,
+                            "createtime": "20160412162211",
+                            "modifytime": "2016-04-12 16:22:11.0",
+                            "dept_id": 215,
+                            "parent_id": 2,
+                            "leaf_flag": "NO",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "222222222"
+                        },
+                        "level": 1
+                    }
+                ],
+                "parentId": 0,
+                "id": 2,
+                "data": {
+                    "employees": 28,
+                    "parentId": 0,
+                    "id": 2,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2016-01-26 17:52:51.0",
+                    "dept_id": 2,
+                    "parent_id": 0,
+                    "leaf_flag": "NO",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "行政部2"
+                },
+                "level": 0
+            },
+            {
+                "childs": [
+                    {
+                        "childs": [],
+                        "parentId": 3,
+                        "id": 381,
+                        "data": {
+                            "employees": 0,
+                            "parentId": 3,
+                            "id": 381,
+                            "level": 1,
+                            "createtime": "20160516141546",
+                            "modifytime": "2016-05-16 14:15:46.0",
+                            "dept_id": 381,
+                            "parent_id": 3,
+                            "leaf_flag": "YES",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "是新时代的"
+                        },
+                        "level": 1
+                    }
+                ],
+                "parentId": 0,
+                "id": 3,
+                "data": {
+                    "employees": 9,
+                    "parentId": 0,
+                    "id": 3,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2016-01-26 17:52:58.0",
+                    "dept_id": 3,
+                    "parent_id": 0,
+                    "leaf_flag": "NO",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "财务部3"
+                },
+                "level": 0
+            },
+            {
+                "childs": [
+                    {
+                        "childs": [],
+                        "parentId": 4,
+                        "id": 281,
+                        "data": {
+                            "employees": 0,
+                            "parentId": 4,
+                            "id": 281,
+                            "level": 1,
+                            "createtime": "20160414180236",
+                            "modifytime": "2016-04-14 18:02:36.0",
+                            "dept_id": 281,
+                            "parent_id": 4,
+                            "leaf_flag": "YES",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "1234567"
+                        },
+                        "level": 1
+                    }
+                ],
+                "parentId": 0,
+                "id": 4,
+                "data": {
+                    "employees": 6,
+                    "parentId": 0,
+                    "id": 4,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2016-01-26 17:53:04.0",
+                    "dept_id": 4,
+                    "parent_id": 0,
+                    "leaf_flag": "NO",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "销售部4"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 5,
+                "data": {
+                    "employees": 24,
+                    "parentId": 0,
+                    "id": 5,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2015-11-30 11:09:15.0",
+                    "dept_id": 5,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "客服部"
+                },
+                "level": 0
+            },
+            {
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [],
+                                "parentId": 100,
+                                "id": 121,
+                                "data": {
+                                    "employees": 0,
+                                    "parentId": 100,
+                                    "id": 121,
+                                    "level": 2,
+                                    "createtime": "20151201174407",
+                                    "modifytime": "2015-12-01 17:44:07.0",
+                                    "dept_id": 121,
+                                    "parent_id": 100,
+                                    "leaf_flag": "YES",
+                                    "delete_flag": 0,
+                                    "comp_id": 131,
+                                    "name": "用户体验"
+                                },
+                                "level": 2
+                            }
+                        ],
+                        "parentId": 6,
+                        "id": 100,
+                        "data": {
+                            "employees": 0,
+                            "parentId": 6,
+                            "id": 100,
+                            "level": 1,
+                            "createtime": "20151130153118",
+                            "modifytime": "2016-04-06 19:06:22.0",
+                            "dept_id": 100,
+                            "parent_id": 6,
+                            "leaf_flag": "NO",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "新媒体运营"
+                        },
+                        "level": 1
+                    },
+                    {
+                        "childs": [],
+                        "parentId": 6,
+                        "id": 101,
+                        "data": {
+                            "employees": 2,
+                            "parentId": 6,
+                            "id": 101,
+                            "level": 1,
+                            "createtime": "20151130153148",
+                            "modifytime": "2016-05-03 11:37:07.0",
+                            "dept_id": 101,
+                            "parent_id": 6,
+                            "leaf_flag": "YES",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "一一一一一咦咦咦咦咦一一一一一咦咦咦咦咦用户运营用户运营用户运营用户运营用户运营用户运营"
+                        },
+                        "level": 1
+                    }
+                ],
+                "parentId": 0,
+                "id": 6,
+                "data": {
+                    "employees": 4,
+                    "parentId": 0,
+                    "id": 6,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2015-11-30 11:09:15.0",
+                    "dept_id": 6,
+                    "parent_id": 0,
+                    "leaf_flag": "NO",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "运营部"
+                },
+                "level": 0
+            },
+            {
+                "childs": [
+                    {
+                        "childs": [],
+                        "parentId": 7,
+                        "id": 97,
+                        "data": {
+                            "employees": 1,
+                            "parentId": 7,
+                            "id": 97,
+                            "level": 1,
+                            "createtime": "20151130152317",
+                            "modifytime": "2015-11-30 15:23:17.0",
+                            "dept_id": 97,
+                            "parent_id": 7,
+                            "leaf_flag": "YES",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "产品设计组"
+                        },
+                        "level": 1
+                    }
+                ],
+                "parentId": 0,
+                "id": 7,
+                "data": {
+                    "employees": 8,
+                    "parentId": 0,
+                    "id": 7,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2015-11-30 11:09:15.0",
+                    "dept_id": 7,
+                    "parent_id": 0,
+                    "leaf_flag": "NO",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "产品部"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 8,
+                "data": {
+                    "employees": 7,
+                    "parentId": 0,
+                    "id": 8,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2016-04-18 10:26:24.0",
+                    "dept_id": 8,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "设计部"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 9,
+                "data": {
+                    "employees": 8,
+                    "parentId": 0,
+                    "id": 9,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2015-11-30 15:48:20.0",
+                    "dept_id": 9,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "研发一部"
+                },
+                "level": 0
+            },
+            {
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [
+                                    {
+                                        "childs": [
+                                            {
+                                                "childs": [
+                                                    {
+                                                        "childs": [
+                                                            {
+                                                                "childs": [
+                                                                    {
+                                                                        "childs": [
+                                                                            {
+                                                                                "childs": [
+                                                                                    {
+                                                                                        "childs": [
+                                                                                            {
+                                                                                                "childs": [
+                                                                                                    {
+                                                                                                        "childs": [
+                                                                                                            {
+                                                                                                                "childs": [
+                                                                                                                    {
+                                                                                                                        "childs": [
+                                                                                                                            {
+                                                                                                                                "childs": [],
+                                                                                                                                "parentId": 241,
+                                                                                                                                "id": 242,
+                                                                                                                                "data": {
+                                                                                                                                    "employees": 0,
+                                                                                                                                    "parentId": 241,
+                                                                                                                                    "id": 242,
+                                                                                                                                    "level": 14,
+                                                                                                                                    "createtime": "20160412163616",
+                                                                                                                                    "modifytime": "2016-04-12 16:36:16.0",
+                                                                                                                                    "dept_id": 242,
+                                                                                                                                    "parent_id": 241,
+                                                                                                                                    "leaf_flag": "YES",
+                                                                                                                                    "delete_flag": 0,
+                                                                                                                                    "comp_id": 131,
+                                                                                                                                    "name": "15啊啊啊啊啊啊啊啊"
+                                                                                                                                },
+                                                                                                                                "level": 14
+                                                                                                                            }
+                                                                                                                        ],
+                                                                                                                        "parentId": 240,
+                                                                                                                        "id": 241,
+                                                                                                                        "data": {
+                                                                                                                            "employees": 0,
+                                                                                                                            "parentId": 240,
+                                                                                                                            "id": 241,
+                                                                                                                            "level": 13,
+                                                                                                                            "createtime": "20160412163542",
+                                                                                                                            "modifytime": "2016-04-12 16:35:42.0",
+                                                                                                                            "dept_id": 241,
+                                                                                                                            "parent_id": 240,
+                                                                                                                            "leaf_flag": "NO",
+                                                                                                                            "delete_flag": 0,
+                                                                                                                            "comp_id": 131,
+                                                                                                                            "name": "14啊啊啊啊啊啊啊"
+                                                                                                                        },
+                                                                                                                        "level": 13
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "parentId": 239,
+                                                                                                                "id": 240,
+                                                                                                                "data": {
+                                                                                                                    "employees": 0,
+                                                                                                                    "parentId": 239,
+                                                                                                                    "id": 240,
+                                                                                                                    "level": 12,
+                                                                                                                    "createtime": "20160412163426",
+                                                                                                                    "modifytime": "2016-04-12 16:34:26.0",
+                                                                                                                    "dept_id": 240,
+                                                                                                                    "parent_id": 239,
+                                                                                                                    "leaf_flag": "NO",
+                                                                                                                    "delete_flag": 0,
+                                                                                                                    "comp_id": 131,
+                                                                                                                    "name": "13啊啊啊啊啊啊啊啊啊"
+                                                                                                                },
+                                                                                                                "level": 12
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        "parentId": 238,
+                                                                                                        "id": 239,
+                                                                                                        "data": {
+                                                                                                            "employees": 0,
+                                                                                                            "parentId": 238,
+                                                                                                            "id": 239,
+                                                                                                            "level": 11,
+                                                                                                            "createtime": "20160412163359",
+                                                                                                            "modifytime": "2016-04-12 16:33:59.0",
+                                                                                                            "dept_id": 239,
+                                                                                                            "parent_id": 238,
+                                                                                                            "leaf_flag": "NO",
+                                                                                                            "delete_flag": 0,
+                                                                                                            "comp_id": 131,
+                                                                                                            "name": "12啊啊啊啊啊啊啊"
+                                                                                                        },
+                                                                                                        "level": 11
+                                                                                                    }
+                                                                                                ],
+                                                                                                "parentId": 237,
+                                                                                                "id": 238,
+                                                                                                "data": {
+                                                                                                    "employees": 0,
+                                                                                                    "parentId": 237,
+                                                                                                    "id": 238,
+                                                                                                    "level": 10,
+                                                                                                    "createtime": "20160412163337",
+                                                                                                    "modifytime": "2016-04-12 16:33:37.0",
+                                                                                                    "dept_id": 238,
+                                                                                                    "parent_id": 237,
+                                                                                                    "leaf_flag": "NO",
+                                                                                                    "delete_flag": 0,
+                                                                                                    "comp_id": 131,
+                                                                                                    "name": "11啊啊啊啊啊啊"
+                                                                                                },
+                                                                                                "level": 10
+                                                                                            }
+                                                                                        ],
+                                                                                        "parentId": 236,
+                                                                                        "id": 237,
+                                                                                        "data": {
+                                                                                            "employees": 0,
+                                                                                            "parentId": 236,
+                                                                                            "id": 237,
+                                                                                            "level": 9,
+                                                                                            "createtime": "20160412163313",
+                                                                                            "modifytime": "2016-04-12 16:33:13.0",
+                                                                                            "dept_id": 237,
+                                                                                            "parent_id": 236,
+                                                                                            "leaf_flag": "NO",
+                                                                                            "delete_flag": 0,
+                                                                                            "comp_id": 131,
+                                                                                            "name": "10啊啊啊啊啊啊啊啊啊"
+                                                                                        },
+                                                                                        "level": 9
+                                                                                    }
+                                                                                ],
+                                                                                "parentId": 235,
+                                                                                "id": 236,
+                                                                                "data": {
+                                                                                    "employees": 0,
+                                                                                    "parentId": 235,
+                                                                                    "id": 236,
+                                                                                    "level": 8,
+                                                                                    "createtime": "20160412163251",
+                                                                                    "modifytime": "2016-04-12 16:32:51.0",
+                                                                                    "dept_id": 236,
+                                                                                    "parent_id": 235,
+                                                                                    "leaf_flag": "NO",
+                                                                                    "delete_flag": 0,
+                                                                                    "comp_id": 131,
+                                                                                    "name": "9啊啊啊啊啊啊"
+                                                                                },
+                                                                                "level": 8
+                                                                            }
+                                                                        ],
+                                                                        "parentId": 234,
+                                                                        "id": 235,
+                                                                        "data": {
+                                                                            "employees": 0,
+                                                                            "parentId": 234,
+                                                                            "id": 235,
+                                                                            "level": 7,
+                                                                            "createtime": "20160412163225",
+                                                                            "modifytime": "2016-04-12 16:32:25.0",
+                                                                            "dept_id": 235,
+                                                                            "parent_id": 234,
+                                                                            "leaf_flag": "NO",
+                                                                            "delete_flag": 0,
+                                                                            "comp_id": 131,
+                                                                            "name": "8啊啊啊啊"
+                                                                        },
+                                                                        "level": 7
+                                                                    }
+                                                                ],
+                                                                "parentId": 233,
+                                                                "id": 234,
+                                                                "data": {
+                                                                    "employees": 0,
+                                                                    "parentId": 233,
+                                                                    "id": 234,
+                                                                    "level": 6,
+                                                                    "createtime": "20160412163203",
+                                                                    "modifytime": "2016-04-12 16:32:03.0",
+                                                                    "dept_id": 234,
+                                                                    "parent_id": 233,
+                                                                    "leaf_flag": "NO",
+                                                                    "delete_flag": 0,
+                                                                    "comp_id": 131,
+                                                                    "name": "7啊啊啊"
+                                                                },
+                                                                "level": 6
+                                                            }
+                                                        ],
+                                                        "parentId": 232,
+                                                        "id": 233,
+                                                        "data": {
+                                                            "employees": 0,
+                                                            "parentId": 232,
+                                                            "id": 233,
+                                                            "level": 5,
+                                                            "createtime": "20160412163132",
+                                                            "modifytime": "2016-04-12 16:31:32.0",
+                                                            "dept_id": 233,
+                                                            "parent_id": 232,
+                                                            "leaf_flag": "NO",
+                                                            "delete_flag": 0,
+                                                            "comp_id": 131,
+                                                            "name": "6啊啊啊啊"
+                                                        },
+                                                        "level": 5
+                                                    }
+                                                ],
+                                                "parentId": 231,
+                                                "id": 232,
+                                                "data": {
+                                                    "employees": 0,
+                                                    "parentId": 231,
+                                                    "id": 232,
+                                                    "level": 4,
+                                                    "createtime": "20160412163113",
+                                                    "modifytime": "2016-04-12 16:31:13.0",
+                                                    "dept_id": 232,
+                                                    "parent_id": 231,
+                                                    "leaf_flag": "NO",
+                                                    "delete_flag": 0,
+                                                    "comp_id": 131,
+                                                    "name": "5啊啊啊啊啊啊啊"
+                                                },
+                                                "level": 4
+                                            }
+                                        ],
+                                        "parentId": 230,
+                                        "id": 231,
+                                        "data": {
+                                            "employees": 0,
+                                            "parentId": 230,
+                                            "id": 231,
+                                            "level": 3,
+                                            "createtime": "20160412163100",
+                                            "modifytime": "2016-04-12 16:31:00.0",
+                                            "dept_id": 231,
+                                            "parent_id": 230,
+                                            "leaf_flag": "NO",
+                                            "delete_flag": 0,
+                                            "comp_id": 131,
+                                            "name": "4亲亲啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+                                        },
+                                        "level": 3
+                                    }
+                                ],
+                                "parentId": 198,
+                                "id": 230,
+                                "data": {
+                                    "employees": 0,
+                                    "parentId": 198,
+                                    "id": 230,
+                                    "level": 2,
+                                    "createtime": "20160412163044",
+                                    "modifytime": "2016-04-12 16:30:44.0",
+                                    "dept_id": 230,
+                                    "parent_id": 198,
+                                    "leaf_flag": "NO",
+                                    "delete_flag": 0,
+                                    "comp_id": 131,
+                                    "name": "3啊啊啊啊啊啊啊啊啊啊啊啊"
+                                },
+                                "level": 2
+                            }
+                        ],
+                        "parentId": 10,
+                        "id": 198,
+                        "data": {
+                            "employees": 0,
+                            "parentId": 10,
+                            "id": 198,
+                            "level": 1,
+                            "createtime": "20160301153351",
+                            "modifytime": "2016-03-01 15:33:51.0",
+                            "dept_id": 198,
+                            "parent_id": 10,
+                            "leaf_flag": "NO",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "zhangyida"
+                        },
+                        "level": 1
+                    }
+                ],
+                "parentId": 0,
+                "id": 10,
+                "data": {
+                    "employees": 102,
+                    "parentId": 0,
+                    "id": 10,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2015-11-30 15:48:04.0",
+                    "dept_id": 10,
+                    "parent_id": 0,
+                    "leaf_flag": "NO",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "研发二部"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 11,
+                "data": {
+                    "employees": 2,
+                    "parentId": 0,
+                    "id": 11,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2015-11-30 15:48:13.0",
+                    "dept_id": 11,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "研发三部"
+                },
+                "level": 0
+            },
+            {
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [
+                                    {
+                                        "childs": [],
+                                        "parentId": 244,
+                                        "id": 245,
+                                        "data": {
+                                            "employees": 0,
+                                            "parentId": 244,
+                                            "id": 245,
+                                            "level": 3,
+                                            "createtime": "20160412163727",
+                                            "modifytime": "2016-04-12 16:37:27.0",
+                                            "dept_id": 245,
+                                            "parent_id": 244,
+                                            "leaf_flag": "YES",
+                                            "delete_flag": 0,
+                                            "comp_id": 131,
+                                            "name": "4我问问"
+                                        },
+                                        "level": 3
+                                    }
+                                ],
+                                "parentId": 243,
+                                "id": 244,
+                                "data": {
+                                    "employees": 0,
+                                    "parentId": 243,
+                                    "id": 244,
+                                    "level": 2,
+                                    "createtime": "20160412163715",
+                                    "modifytime": "2016-04-12 16:37:15.0",
+                                    "dept_id": 244,
+                                    "parent_id": 243,
+                                    "leaf_flag": "NO",
+                                    "delete_flag": 0,
+                                    "comp_id": 131,
+                                    "name": "3我问问"
+                                },
+                                "level": 2
+                            },
+                            {
+                                "childs": [],
+                                "parentId": 243,
+                                "id": 246,
+                                "data": {
+                                    "employees": 0,
+                                    "parentId": 243,
+                                    "id": 246,
+                                    "level": 2,
+                                    "createtime": "20160412163742",
+                                    "modifytime": "2016-04-12 16:37:42.0",
+                                    "dept_id": 246,
+                                    "parent_id": 243,
+                                    "leaf_flag": "YES",
+                                    "delete_flag": 0,
+                                    "comp_id": 131,
+                                    "name": "3-1我问问"
+                                },
+                                "level": 2
+                            },
+                            {
+                                "childs": [],
+                                "parentId": 243,
+                                "id": 247,
+                                "data": {
+                                    "employees": 0,
+                                    "parentId": 243,
+                                    "id": 247,
+                                    "level": 2,
+                                    "createtime": "20160412163759",
+                                    "modifytime": "2016-04-12 16:37:59.0",
+                                    "dept_id": 247,
+                                    "parent_id": 243,
+                                    "leaf_flag": "YES",
+                                    "delete_flag": 0,
+                                    "comp_id": 131,
+                                    "name": "3-2我问问"
+                                },
+                                "level": 2
+                            }
+                        ],
+                        "parentId": 12,
+                        "id": 243,
+                        "data": {
+                            "employees": 0,
+                            "parentId": 12,
+                            "id": 243,
+                            "level": 1,
+                            "createtime": "20160412163701",
+                            "modifytime": "2016-04-12 16:37:01.0",
+                            "dept_id": 243,
+                            "parent_id": 12,
+                            "leaf_flag": "NO",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "2我问问"
+                        },
+                        "level": 1
+                    },
+                    {
+                        "childs": [
+                            {
+                                "childs": [
+                                    {
+                                        "childs": [],
+                                        "parentId": 249,
+                                        "id": 250,
+                                        "data": {
+                                            "employees": 0,
+                                            "parentId": 249,
+                                            "id": 250,
+                                            "level": 3,
+                                            "createtime": "20160412163858",
+                                            "modifytime": "2016-04-12 16:38:58.0",
+                                            "dept_id": 250,
+                                            "parent_id": 249,
+                                            "leaf_flag": "YES",
+                                            "delete_flag": 0,
+                                            "comp_id": 131,
+                                            "name": "4我问问"
+                                        },
+                                        "level": 3
+                                    }
+                                ],
+                                "parentId": 248,
+                                "id": 249,
+                                "data": {
+                                    "employees": 0,
+                                    "parentId": 248,
+                                    "id": 249,
+                                    "level": 2,
+                                    "createtime": "20160412163843",
+                                    "modifytime": "2016-04-12 16:38:43.0",
+                                    "dept_id": 249,
+                                    "parent_id": 248,
+                                    "leaf_flag": "NO",
+                                    "delete_flag": 0,
+                                    "comp_id": 131,
+                                    "name": "3-1我问问"
+                                },
+                                "level": 2
+                            }
+                        ],
+                        "parentId": 12,
+                        "id": 248,
+                        "data": {
+                            "employees": 0,
+                            "parentId": 12,
+                            "id": 248,
+                            "level": 1,
+                            "createtime": "20160412163819",
+                            "modifytime": "2016-04-12 16:38:19.0",
+                            "dept_id": 248,
+                            "parent_id": 12,
+                            "leaf_flag": "NO",
+                            "delete_flag": 0,
+                            "comp_id": 131,
+                            "name": "2-1我问问"
+                        },
+                        "level": 1
+                    }
+                ],
+                "parentId": 0,
+                "id": 12,
+                "data": {
+                    "employees": 1,
+                    "parentId": 0,
+                    "id": 12,
+                    "level": 0,
+                    "createtime": "20151130110915",
+                    "modifytime": "2015-11-30 11:09:15.0",
+                    "dept_id": 12,
+                    "parent_id": 0,
+                    "leaf_flag": "NO",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "总裁办"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 120,
+                "data": {
+                    "employees": 0,
+                    "parentId": 0,
+                    "id": 120,
+                    "level": 0,
+                    "createtime": "20151201164047",
+                    "modifytime": "2015-12-01 16:40:47.0",
+                    "dept_id": 120,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "程序员鼓励师"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 199,
+                "data": {
+                    "employees": 0,
+                    "parentId": 0,
+                    "id": 199,
+                    "level": 0,
+                    "createtime": "20160319153253",
+                    "modifytime": "2016-03-19 15:32:53.0",
+                    "dept_id": 199,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "2个时段20部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 212,
+                "data": {
+                    "employees": 0,
+                    "parentId": 0,
+                    "id": 212,
+                    "level": 0,
+                    "createtime": "20160329152842",
+                    "modifytime": "2016-03-29 15:28:42.0",
+                    "dept_id": 212,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "产品设计组"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 253,
+                "data": {
+                    "employees": 0,
+                    "parentId": 0,
+                    "id": 253,
+                    "level": 0,
+                    "createtime": "20160412165457",
+                    "modifytime": "2016-04-12 19:15:05.0",
+                    "dept_id": 253,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "5未分配部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 254,
+                "data": {
+                    "employees": 2,
+                    "parentId": 0,
+                    "id": 254,
+                    "level": 0,
+                    "createtime": "20160412165457",
+                    "modifytime": "2016-04-12 19:14:51.0",
+                    "dept_id": 254,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "4表格导入的部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 255,
+                "data": {
+                    "employees": 2,
+                    "parentId": 0,
+                    "id": 255,
+                    "level": 0,
+                    "createtime": "20160412165458",
+                    "modifytime": "2016-04-12 19:14:37.0",
+                    "dept_id": 255,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "3未分配部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 256,
+                "data": {
+                    "employees": 4,
+                    "parentId": 0,
+                    "id": 256,
+                    "level": 0,
+                    "createtime": "20160412165458",
+                    "modifytime": "2016-04-12 16:54:58.0",
+                    "dept_id": 256,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "无部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 258,
+                "data": {
+                    "employees": 0,
+                    "parentId": 0,
+                    "id": 258,
+                    "level": 0,
+                    "createtime": "20160412190954",
+                    "modifytime": "2016-04-12 19:09:54.0",
+                    "dept_id": 258,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "超长部门1234567890123456789012345678901234567890"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 260,
+                "data": {
+                    "employees": 2,
+                    "parentId": 0,
+                    "id": 260,
+                    "level": 0,
+                    "createtime": "20160412191621",
+                    "modifytime": "2016-04-12 19:21:44.0",
+                    "dept_id": 260,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "6未分配部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 261,
+                "data": {
+                    "employees": 4,
+                    "parentId": 0,
+                    "id": 261,
+                    "level": 0,
+                    "createtime": "20160412191622",
+                    "modifytime": "2016-04-12 19:16:22.0",
+                    "dept_id": 261,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "表格导入的部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 262,
+                "data": {
+                    "employees": 5,
+                    "parentId": 0,
+                    "id": 262,
+                    "level": 0,
+                    "createtime": "20160412191622",
+                    "modifytime": "2016-04-27 15:02:34.0",
+                    "dept_id": 262,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "2未分配部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 379,
+                "data": {
+                    "employees": 6,
+                    "parentId": 0,
+                    "id": 379,
+                    "level": 0,
+                    "createtime": "20160509095039",
+                    "modifytime": "2016-05-09 09:50:39.0",
+                    "dept_id": 379,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "周末上班"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 380,
+                "data": {
+                    "employees": 31,
+                    "parentId": 0,
+                    "id": 380,
+                    "level": 0,
+                    "createtime": "20160512143240",
+                    "modifytime": "2016-05-12 14:32:40.0",
+                    "dept_id": 380,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "未分配部门"
+                },
+                "level": 0
+            },
+            {
+                "childs": [],
+                "parentId": 0,
+                "id": 394,
+                "data": {
+                    "employees": 4,
+                    "parentId": 0,
+                    "id": 394,
+                    "level": 0,
+                    "createtime": "20160525102607",
+                    "modifytime": "2016-05-25 10:26:07.0",
+                    "dept_id": 394,
+                    "parent_id": 0,
+                    "leaf_flag": "YES",
+                    "delete_flag": 0,
+                    "comp_id": 131,
+                    "name": "销售一部"
+                },
+                "level": 0
+            }
+        ],
+        "parentId": -1,
+        "id": 0,
+        "data": {
+            "shortName": "美丽科技2",
+            "employees": 284,
+            "parentId": -1,
+            "id": 0,
+            "level": -1,
+            "dept_id": 0,
+            "parent_id": -1,
+            "leaf_flag": "NO",
+            "comp_id": 131,
+            "name": "【测试】美丽科技2"
+        },
+        "level": -1
+    }
+}

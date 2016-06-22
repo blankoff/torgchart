@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="css/common.css" />
+  <link rel="stylesheet" type="text/css" href="css/orgchart.css" />
+</head>
+<body>
+<div class="wrap">
+  <div class="box-org-tree"></div>
+</div>
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="js/bs.orgchart.js"></script>
+<script type="text/javascript" src="js/orgchart.js"></script>
+</body>
+</html>
