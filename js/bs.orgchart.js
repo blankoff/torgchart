@@ -586,9 +586,9 @@ CreateOrgchartNodeBS.prototype = {
     ph.show().css({
       "width": node.width() - 22,
       "height": node.height() - 22,
-      "margin": "10px",
-      "border": "1px dashed #999",
-      "border-radius": "5px"
+      "margin": "11px"
+        // "border": "1px dashed #999",
+        // "border-radius": "5px"
     });
     ph.appendTo(node.parent());
   },
